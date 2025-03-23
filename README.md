@@ -4,4 +4,4 @@ This repository contains the implementation and experiments for the paper **"Con
 
 [Link to the Paper](https://arxiv.org/abs/2406.13155) *(arXiv:2406.13155v2 [cs.CV] 4 Nov 2024)*
 
-Kolmogorov-Arnold Networks (KAN) [Link]([https://arxiv.org/abs/2406.13155](https://medium.com/@zahmed333/what-is-the-new-neural-network-architecture-kan-kolmogorov-arnold-networks-explained-d2787b013ade))
+[Link]([https://arxiv.org/abs/2406.13155](https://medium.com/@zahmed333/what-is-the-new-neural-network-architecture-kan-kolmogorov-arnold-networks-explained-d2787b013ade)) *What is the new Neural Network Architecture?(KAN) Kolmogorov-Arnold Networks Explained*
